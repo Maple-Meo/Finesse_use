@@ -1,0 +1,4 @@
+编译脚本：
+g++ finesse_example.cpp libxxhash.a -o finesse_example
+运行脚本：
+./finesse_example 
